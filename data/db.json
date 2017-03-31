@@ -1,0 +1,7 @@
+{
+  "issues" : [
+    { "id" : 1, "slug": "FSSC-1235", "title" : "The first title", "assigned": "Marcus", "link" : "http://www.google.com"},
+    { "id" : 2, "slug": "FSSC-1234", "title" : "The third title", "assigned": "Marcus", "link" : "http://www.google.com"},
+    { "id" : 3, "slug": "FSSC-1237", "title" : "The second title", "assigned": "Marcus", "link" : "http://www.google.com"}
+  ]
+}

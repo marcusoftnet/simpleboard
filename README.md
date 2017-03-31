@@ -1,5 +1,5 @@
 # Simple Board
-A very simple board visualization from issues in a tracker
+A simple board for visualizing work items from issue trackers
 
 # Goal
 They keep data - I keep position

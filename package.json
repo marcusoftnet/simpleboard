@@ -1,7 +1,7 @@
 {
   "name": "riot-webpack-setup",
   "version": "1.0.0",
-  "description": "A simple board for visualizing issues",
+  "description": "A simple board for visualizing work items from issue trackers",
   "main": "index.js",
   "scripts": {
     "dev": "npm-run-all --parallel dev:*",

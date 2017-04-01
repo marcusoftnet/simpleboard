@@ -1,7 +1,7 @@
 {
   "issues" : [
-    { "id" : 1, "slug": "FSSC-1235", "title" : "The first title", "assigned": "Marcus", "link" : "http://www.google.com"},
-    { "id" : 2, "slug": "FSSC-1234", "title" : "The third title", "assigned": "Marcus", "link" : "http://www.google.com"},
-    { "id" : 3, "slug": "FSSC-1237", "title" : "The second title", "assigned": "Marcus", "link" : "http://www.google.com"}
+    { "id" : 1, "slug": "FSSC-1235", "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, enim.", "assigned": "Marcus", "link" : "http://www.google.com"},
+    { "id" : 2, "slug": "FSSC-1234", "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla aut qui consequuntur, eius nihil optio iure nostrum placeat dolorum totam.", "assigned": "Marcus", "link" : "http://www.google.com"},
+    { "id" : 3, "slug": "FSSC-1237", "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo animi sint maiores doloremque modi enim minus dolorum sunt consectetur vitae recusandae deleniti alias fugiat repellat.", "assigned": "Marcus", "link" : "http://www.google.com"}
   ]
 }

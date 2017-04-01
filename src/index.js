@@ -2,7 +2,7 @@ const riot = require('riot')
 const redux = require('redux')
 const thunk = require('redux-thunk').default
 require('./tags/workitem-list.tag')
-require('./tags/workitem.tag')
+require('./tags/work-item.tag')
 require('./tags/loading-indicator.tag')
 
 require('./tags/simple-board.tag')

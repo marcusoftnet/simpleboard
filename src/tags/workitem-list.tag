@@ -1,7 +1,6 @@
 <workitem-list>
   <ul>
-    <workitem each={this.opts.workitems}>
-    </workitem>
+    <work-item each={this.opts.workitems}></work-item>
   </ul>
 
   <style type="text/css">

@@ -1,12 +1,15 @@
 # Simple Board
 A simple board for visualizing work items from issue trackers
 
-# Goal
-They keep data - I keep position
+# Goals
+* They keep data - I keep position
+* More than one user per user
+* Broadcast changes as they happen
 
 # Kanban
 
 ## Todo
+- 
 - place round sticker with avatar on top of sticky
 - store positions in local storage (for now)
 - make backend for storing positions
@@ -14,6 +17,7 @@ They keep data - I keep position
 - tests
 
 ## Doing
+- create [production build](https://webpack.js.org/guides/production-build/)
 - make draggable
 
 ## Done

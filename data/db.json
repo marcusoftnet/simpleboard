@@ -1,7 +1,7 @@
 {
   "issues" : [
-    { "id" : 1, "slug": "FSSC-1235", "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, enim.", "assigned": "Marcus", "link" : "http://www.google.com"},
-    { "id" : 2, "slug": "FSSC-1234", "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla aut qui consequuntur, eius nihil optio iure nostrum placeat dolorum totam.", "assigned": "Marcus", "link" : "http://www.google.com"},
-    { "id" : 3, "slug": "FSSC-1237", "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo animi sint maiores doloremque modi enim minus dolorum sunt consectetur vitae recusandae deleniti alias fugiat repellat.", "assigned": "Marcus", "link" : "http://www.google.com"}
+    { "key": "FSSC-1235", "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, enim.", "assigned": "Jim", "avatarurl":"https://randomuser.me/api/portraits/men/78.jpg", "link" : "http://www.google.com"},
+    { "key": "FSSC-1234", "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla aut qui consequuntur, eius nihil optio iure nostrum placeat dolorum totam.", "assigned": "John","avatarurl":"https://randomuser.me/api/portraits/lego/8.jpg",  "link" : "http://www.google.com"},
+    { "key": "FSSC-1237", "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo animi sint maiores doloremque modi enim minus dolorum sunt consectetur vitae recusandae deleniti alias fugiat repellat.", "assigned": "Jessie","avatarurl":"https://randomuser.me/api/portraits/women/37.jpg", "link" : "http://www.google.com"}
   ]
 }

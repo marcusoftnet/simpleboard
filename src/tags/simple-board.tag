@@ -3,8 +3,8 @@
   <workitem-list workitems={this.state.workitems}></workitem-list>
   <script>
 
-    var actions = require('../actions.js')
-    var store = this.opts.store
+    const actions = require('../actions.js')
+    const store = this.opts.store
 
     this.on('mount',function(){
       store.dispatch(actions.loadWorkItems())
